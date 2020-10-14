@@ -1,7 +1,0 @@
-# Read the data
-import pandas as pd
-
-df = pd.read_csv("D:\ProjectData\weatherAlbury.csv")
-print('Size of weather data frame is :',df.shape)
-df.head()
-
